@@ -1,0 +1,8 @@
+grandalf
+langchain
+langchain-google-genai
+langgraph
+python-dotenv
+sendgrid
+serpapi
+streamlit
