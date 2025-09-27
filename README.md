@@ -84,6 +84,22 @@ To get a local copy up and running, follow these steps.
 6.  Click **"Send Email"** to deliver the travel plan to your inbox.
 
 ---
+### Screenshots
+
+<img width="1719" height="906" alt="Screenshot 2025-09-15 202658" src="https://github.com/user-attachments/assets/9ca2ba2b-0b3b-4b53-907a-d9a03714aae8" />
+
+---
+<img width="1238" height="824" alt="Screenshot 2025-09-15 202849" src="https://github.com/user-attachments/assets/b9904b6c-d754-4211-8766-4d94012bafc9" />
+
+---
+<img width="1151" height="729" alt="Screenshot 2025-09-15 202909" src="https://github.com/user-attachments/assets/aba31c5e-ff47-4e84-a9e6-490824b0f9d6" />
+
+---
+<img width="1828" height="809" alt="Screenshot 2025-09-15 202922" src="https://github.com/user-attachments/assets/3c38d229-9434-46e1-8aa5-eac90dcd1958" />
+
+---
+
+
 
 ### Contributing
 
@@ -98,6 +114,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ---
 
-### License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
